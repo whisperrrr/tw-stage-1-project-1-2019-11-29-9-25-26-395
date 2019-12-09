@@ -113,7 +113,6 @@ ul li {
 }
 .tb-menu-bottom {
   position: absolute;
-  min-width: 980px;
   bottom: 5px;
   left: 25%;
   font-size: 0.5em;
